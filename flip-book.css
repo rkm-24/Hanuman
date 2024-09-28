@@ -3,7 +3,7 @@
             height: 100vh;
         } */
         .container {
-            background-image: url("/flip-book/page-bg3.png");
+            background-image: url("page-bg3.png");
             width: 525px;
             height: 300px;
             border: 10px solid violet;
